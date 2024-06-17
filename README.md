@@ -1,13 +1,15 @@
 <h1 align="center"><b>Hi , I'm Luis Jauregui </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <br/>
 
-- 🔭 I’m currently working on **Web development (MERN)**
+- 🔭 I’m currently working on **Web development (Javascript)**
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **ljau07@gmail.com**
+
+- 📄 Know about my experiences **https://ljau.github.io/resume/**
 
 <br>
 
